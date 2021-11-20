@@ -252,7 +252,7 @@
                     <div class="col-md-8">
                       <span class="sub-header">Cristi</span>
                     </div>
-                    <div class="col-md-4"> <img src="assets/stars.png">
+                    <div class="col-md-4"> <img src="assets/stars.png"> 
                     </div>
                     <p class="reviewText">Nume firma SRL</p>
                   </div>
